@@ -5,6 +5,6 @@
  - Gmail : rehmandl@gmail.com
 ##
 ### Technologies I use
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,django,flask,html,css,js,ts,tailwind,bootstrap,vuejs,svelte,threejs,nodejs,express,firebase,nuxtjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,firebase,django,flask,html,css,js,ts,tailwind,svelte,threejs,nodejs,express&theme=dark" />
 </div>
 
